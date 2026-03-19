@@ -1,9 +1,5 @@
 # pokemon
 Your life has a long journey 
-# Pokemon
-Your life has a long journey 
-<!DOCTYPE html>
-<html>
   <center>
    <head>
       <link rel="icon" href="logo.png">
@@ -60,5 +56,3 @@ Symbolic Partnership: They represent the theme of friendship over raw power, end
         <hi>7299667208 | brsd1985@gmail.com</hi>
         <p>The original full name of the franchise is Pocket Monsters (ポケットモンスター, Poketto Monsutā), which has been commonly abbreviated to Pokemon (ポケモン) since its launch. When the franchise was released internationally, the short form of the title was used, with an acute accent (´) over the e to aid in pronunciation.</p>
 </center>
-</body>
-</html>
