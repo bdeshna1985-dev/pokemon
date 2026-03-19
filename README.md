@@ -1,5 +1,4 @@
-# pokemon
-Your life has a long journey 
+
   <center>
    <head>
       <link rel="icon" href="logo.png">
