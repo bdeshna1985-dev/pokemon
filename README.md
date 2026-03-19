@@ -8,7 +8,7 @@ Your life has a long journey
    <head>
       <link rel="icon" href="logo.png">
     </head>
-<body bgcolor="black" style="color: #ffffff;">
+<body bgcolor="black" style="color: black">
     <center>
     <h> ~The journery starts today!~</h>
     <p> This article is about the media franchise as a whole. For the video game series, see Pokémon (video game series). For the animated series, see Pokémon (TV series). For a list of creatures known as "Pokémon", see List of Pokémon. For other uses, see Pokémon (disambiguation).
